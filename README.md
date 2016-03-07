@@ -22,7 +22,9 @@ project_root
 
 .env content:
 
-```production```
+```
+production
+```
 
 # DB configs
 
