@@ -15,6 +15,15 @@ configs/
 env file is located on root of your project. 
 It needs to define your environment and load config file that belongs to your current environment
 
+```
+project_root
+|--- .env
+```
+
+.env content:
+
+```production```
+
 # DB configs
 
 DB connection configs will be parsed from .my.cnf file located on home directory
